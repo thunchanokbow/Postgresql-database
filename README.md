@@ -2,5 +2,5 @@ PostgreSQL Database
 ===========
 
 ## Contents
-[Create Database](audibleBook_Revenue.ipynb) <br>
-   - [Bash Command](sections/data-pipeline/apache-airflow.md) Automate Tasks<br>
+[Create Database](section/create-database.md) <br>
+   - [Bash Command](sections/data-pipeline/apache-airflow.md)<br>
