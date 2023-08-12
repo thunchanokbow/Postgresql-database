@@ -15,7 +15,7 @@ Create Database
 
 <p align="center">Database Amazon0</p>
 
-Select program the PostgreSQL `[ cd / _Directory PostgreaSQL_ /bin ]` 
+Select program the PostgreSQL `[ cd / _Directory PostgreaSQL_ /bin ]` enter `[ls]`
 <br>
 <br>
 Log In to the PostgreSQL `[ ./psql -U _user_ -h _hostnumber_  ]`  enter and put _the password_
