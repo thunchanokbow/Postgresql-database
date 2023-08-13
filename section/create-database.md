@@ -37,6 +37,7 @@ List of database  `[ \l ]` it shows all the database in the PostgreSQL incloudin
 
 To create new datadase by right-clicking on the Databases tab and then selecting Database from the drop-down options. Let's create a database named and set up the owner.
 <br>
+
 ![5](/images/5.png)
 
 
