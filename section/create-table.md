@@ -1,7 +1,7 @@
 Create Table
 ============
 
-[Create using Bash Command](create-table.md#Create-using-Bash-Command)
+[Create using Bash Command](create-table.md#Create-using-Bash-Command)<br>
 [Create from UI](create-table.md#Create-from-UI)
 
 
