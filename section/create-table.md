@@ -1,6 +1,12 @@
 Create Table
 ============
 
+#### Check that this step has been completed before START
+The database has already been created.
+
+
+
+
 [Create using Bash Command](create-table.md#Create-using-Bash-Command)<br>
 [Create from UI](create-table.md#Create-from-UI)
 
