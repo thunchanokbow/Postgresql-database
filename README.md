@@ -9,4 +9,7 @@ PostgreSQL Database
 [Create Table](section/create-table.md) <br>
    - [Bash Command](section/create-table.md#Create-using-Bash-Command)<br>
    - [Create from UI](section/create-table.md#Create-from-UI )<br>
-   
+
+[Import Data](section/import-data.md) <br>
+   - [Import CSV Files](section/import-data.md)<br>
+    
