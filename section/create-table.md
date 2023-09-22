@@ -35,7 +35,7 @@ List the table in database  `[ \dt ]` enter it shows _new tables_ in Database
 
 ## Create from UI
 
-- To create new datadase by right-clicking on the Table tab.
+- To create new table by right-clicking on the Table tab.
 - Selecting create from the drop-down options.
 - Specify the name, the owner and the schema of the table.
 
